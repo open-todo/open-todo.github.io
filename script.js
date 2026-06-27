@@ -225,7 +225,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const link = document.createElement('a');
                 link.href = url;
-                link.download = 'todo-data.json';
+                const fileName = (data.projectTitle && data.projectTitle.trim() !== "") 
+                    ? data.projectTitle.trim() 
+                    : "todo-data";
+                const cleanFileName = fileName.replace(/[/\\?%*:|"<>]/g, '-');
+                link.download = `${cleanFileName}.json`;
                 link.click();
 
                 URL.revokeObjectURL(url);
