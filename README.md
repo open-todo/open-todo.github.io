@@ -23,4 +23,4 @@ Open To-Do is an open source kanban to-do list project.
 
 ## Images
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/b53acfa0-c0ed-4281-8527-b15e2026a583" />
-
+###### Example image of use
