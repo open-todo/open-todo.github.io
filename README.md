@@ -1,5 +1,5 @@
-# Open To-Do
-Open To-Do is a lighweight open source kanban to-do list website, made for privacy and simplicity in mind.
+# KanbanNG
+KanbanNG is a lighweight open source kanban styled to-do list website, made for privacy and simplicity in mind.
 
 ## Main features
 - Drag and drop using sortableJs
