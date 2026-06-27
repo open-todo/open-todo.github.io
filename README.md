@@ -23,13 +23,11 @@ KanbanNG is a lighweight open source kanban styled to-do list website, made for 
 - Download your projects by pressing on the bottom download button on the left side of the screen (This will download a .json file with your project's name)
 - Upload your projects by either pressing the top button on the left side of the screen and selecting your project's ".json" file or drag and drop the file on the website
 
-## About
-I made this as a fun learning project to learn more about web development and design. 
-
 ## Images
-<img width="1919" height="956" alt="Open To-Do website interface" src="https://github.com/user-attachments/assets/b53acfa0-c0ed-4281-8527-b15e2026a583" />
 
-Open To-Do website interface
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/7ac591ea-3c31-4220-8e5a-19485b2cc342" />
+
+KanbanNG website interface
 
 <img width="427" height="198" alt="Card dragging animation" src="https://github.com/user-attachments/assets/7e3ac558-c252-492c-8c2d-287164c05ad5" />
 
