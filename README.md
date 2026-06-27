@@ -1,4 +1,3 @@
-<img width="33" height="33" alt="favicon" src="https://github.com/user-attachments/assets/cd0c5ac4-2c4c-49e2-84a8-d853ffbfe2ac" />
 # OpenToDo
 
 Open To-Do is an open source To-Do website that I made to learn more about web development.
